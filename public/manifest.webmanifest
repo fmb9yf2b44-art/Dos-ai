@@ -1,0 +1,12 @@
+{
+  "id": "/",
+  "name": "DOS AI — Your mind, in orbit",
+  "short_name": "DOS AI",
+  "description": "Meet AZIK, your thoughtful AI companion.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090811",
+  "theme_color": "#090811",
+  "orientation": "portrait-primary",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
